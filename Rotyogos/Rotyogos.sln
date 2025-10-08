@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotyogos", "Rotyogos\Rotyogos.csproj", "{C3966838-97FA-4958-94E2-D9EEB05325CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{837D4FAB-343F-4A88-9A74-79DFFD089C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3966838-97FA-4958-94E2-D9EEB05325CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3966838-97FA-4958-94E2-D9EEB05325CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3966838-97FA-4958-94E2-D9EEB05325CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3966838-97FA-4958-94E2-D9EEB05325CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837D4FAB-343F-4A88-9A74-79DFFD089C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837D4FAB-343F-4A88-9A74-79DFFD089C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837D4FAB-343F-4A88-9A74-79DFFD089C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837D4FAB-343F-4A88-9A74-79DFFD089C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487EBCA3-838E-453E-9231-0FBDD674B57D}
+	EndGlobalSection
+EndGlobal
